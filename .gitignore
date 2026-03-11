@@ -10,7 +10,7 @@ env/
 .ipynb_checkpoints
 
 # Data
-data/*.csv
+data/raw/*.csv       
 
 # Models
 models/*.pkl
