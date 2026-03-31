@@ -23,12 +23,17 @@ python run_project.py
 
 ## Algorithms
 
-Isolation Forest  
-Gradient Boosting
+XGBoost  
+Gradient Boosting  
+Isolation Forest
 
 ## Skills Demonstrated
 
 Fraud Detection  
 Imbalanced Dataset Handling  
-ML Pipelines  
-Data Visualization
+Ensemble Learning  
+Anomaly Detection  
+Feature Engineering  
+Resampling  
+Precision-Recall Evaluation  
+Real-World Fraud Detection Pipeline
